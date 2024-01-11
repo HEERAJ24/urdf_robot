@@ -6,3 +6,8 @@ urdf_project is a ROS2 project for simulating and visualizing a robot defined in
 
 
 ![image](https://github.com/HEERAJ24/urdf_robot/assets/77336089/5e723b71-87d6-4e06-92a2-9f69a3bbb9e0)
+
+Useful command:
+
+ros2 launch urdf_project display.launch.xml
+
