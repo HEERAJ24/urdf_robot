@@ -1,4 +1,0 @@
-[console_scripts]
-spawn_turtle = turtlesim_project.spawn:main
-turtle_catch = turtlesim_project.turtle_catch:main
-
